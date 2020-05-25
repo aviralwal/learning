@@ -1,0 +1,6 @@
+# cache files
+__pycache__/
+
+#jupyter checkpoint files
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
