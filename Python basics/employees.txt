@@ -1,6 +1,5 @@
 Jim - Salaryman
 Jerry - Engineer
 Tim - CEO
-Jenny - Scientist
-Doe - Guy
+Jenny - ScientistDoe - Guy
 Doe2 - Guy2
