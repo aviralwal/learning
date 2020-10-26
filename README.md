@@ -31,6 +31,7 @@ Following are the courses -
 # Read
 
 # Courses
+* Kaggle learning - https://www.kaggle.com/learn/overview
 
 # References
 * https://whimsical.com/CA7f3ykvXpnJ9Az32vYXva
